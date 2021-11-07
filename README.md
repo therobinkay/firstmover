@@ -29,7 +29,7 @@ A processed, fundamental dataset for most analyses. Consists of the following da
 A raw dataset that shows the DOI and the subfield of each article. Processed into other datasets and is therefore not used.
 #### pairdata.csv
 A processed dataset that shows all paired atricles. A concatenated dataset of all data in **sims.zip**.
-#### sims.zip
+#### sim0 - sim9
 A processed dataset that shows paired articles. Consists of datasets for all 10 subfields, with the following data columns:
 - *paper*: Digital object identifier (DOI)
 - *gender*: Gender of its primary author
