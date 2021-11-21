@@ -1,6 +1,7 @@
 # First-mover advantage explains gender disparities in physics citations (2021)
 
 ## Description
+This repository contains the raw and preprocessed datasets and the Python codes run by Jupyter Notebook for *First-mover advantage explains gender disparities in physics citations* by Hyunsik Kong, Samuel Martin-Gutierrez, and Fariba Karimi: https://arxiv.org/abs/2110.02815
 
 ## Data & Codes
 
@@ -44,6 +45,26 @@ A processed dataset exclusively used for _number of sampled similar pairs by yea
 - *year*: Publication year of a paper that was written later
 - *count*: Number of M-F pairs in that year
 ### Codes
+The following Python packages were used:
+-collections.defaultdict
+-itertools
+-math
+-matplotlib.pyplot
+-mpl_toolkits.axes_grid1.inset_locator.inset_axes
+-mpl_toolkits.axes_grid1.inset_locator.mark_inset
+-networkx
+-numpy
+-pandas
+-random
+-random.randint
+-scipy.interpolate.BSpline
+-scipy.interpolate.interp1d
+-scipy.interpolate.make_interp_spline
+-scipy.stats
+-seaborn
+-time
+-tqdm
+-warnings
 #### First_mover_advantage.ipynb
 Contains all analyses performed in the main text
 #### First_mover_advantage_SI.ipynb
