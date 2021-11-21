@@ -46,25 +46,25 @@ A processed dataset exclusively used for _number of sampled similar pairs by yea
 - *count*: Number of M-F pairs in that year
 ### Codes
 The following Python packages were used:
--collections.defaultdict
--itertools
--math
--matplotlib.pyplot
--mpl_toolkits.axes_grid1.inset_locator.inset_axes
--mpl_toolkits.axes_grid1.inset_locator.mark_inset
--networkx
--numpy
--pandas
--random
--random.randint
--scipy.interpolate.BSpline
--scipy.interpolate.interp1d
--scipy.interpolate.make_interp_spline
--scipy.stats
--seaborn
--time
--tqdm
--warnings
+- collections.defaultdict
+- itertools
+- math
+- matplotlib.pyplot
+- mpl_toolkits.axes_grid1.inset_locator.inset_axes
+- mpl_toolkits.axes_grid1.inset_locator.mark_inset
+- networkx
+- numpy
+- pandas
+- random
+- random.randint
+- scipy.interpolate.BSpline
+- scipy.interpolate.interp1d
+- scipy.interpolate.make_interp_spline
+- scipy.stats
+- seaborn
+- time
+- tqdm
+- warnings
 #### First_mover_advantage.ipynb
 Contains all analyses performed in the main text
 #### First_mover_advantage_SI.ipynb
