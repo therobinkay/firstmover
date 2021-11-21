@@ -62,8 +62,8 @@ The following Python packages were used:
 - scipy.interpolate.make_interp_spline
 - scipy.stats
 - seaborn
-- time
-- tqdm
+- time *(for optimization)*
+- tqdm *(for optimization)*
 - warnings
 #### First_mover_advantage.ipynb
 Contains all analyses performed in the main text
