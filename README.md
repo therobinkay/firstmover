@@ -50,7 +50,6 @@ A processed dataset exclusively used for _number of sampled similar pairs by yea
 - *year*: Publication year of a paper that was written later
 - *count*: Number of M-F pairs in that year
 ### Codes
-The Python codes are run by Jupyter Notebook with the default directory set as: '../firstmover/python/'
 
 The following Python packages were used:
 - collections.defaultdict
