@@ -71,11 +71,11 @@ The following Python packages were used:
 - time *(for optimization)*
 - tqdm *(for optimization)*
 - warnings
-#### First_mover_advantage.ipynb
+#### List of codes
+- [First_mover_advantage.ipynb](/codes/First_mover_advantage.ipynb)
 Contains all analyses performed in the main text
-#### First_mover_advantage_SI.ipynb
+- [First_mover_advantage_SI.ipynb](/codes/First_mover_advantage_SI.ipynb)
 Contains all analyses performed in the supplementary materials
-#### First_mover_advantage_SIMILARITY_ALGORITHM.ipynb
+- [First_mover_advantage_SIMILARITY_ALGORITHM.ipynb](/codes/First_mover_advantage_SIMILARITY_ALGORITHM.ipynb)
 Performs the similarity algorithm highlighted in the *Methods* from the main text
-#### First_mover_advantage_Fig_3B.ipynb
 - [First_mover_advantage_Fig_3B.ipynb](/codes/First_mover_advantage_Fig_3B.ipynb)
