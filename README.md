@@ -26,7 +26,6 @@ The following Python packages were used:
 - random
 - scipy.stats
 - seaborn
-- statistics
 - statsmodels.stats.weightstats
 - statsmodels.stats.proportion
 - time
