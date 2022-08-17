@@ -1,4 +1,4 @@
-# First-mover advantage explains gender disparities in physics citations (2021)
+# Influence of the first-mover advantage on the gender disparities in physics citations (2022)
 
 ## Description
 This repository contains the raw and preprocessed datasets and the Python codes for *First-mover advantage explains gender disparities in physics citations* by Hyunsik Kong, Samuel Martin-Gutierrez, and Fariba Karimi: https://arxiv.org/abs/2110.02815
