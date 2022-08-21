@@ -15,20 +15,20 @@ To perform the analysis, you need first to uncompress all the data files listed 
 ### Codes
 
 The following Python packages were used:
-- collections
-- itertools
 - math
 - matplotlib.pyplot
 - networkx
 - numpy
+- os
 - pandas
 - pingouin
 - random
 - scipy.stats
+- scipy.interpolate
 - seaborn
 - statsmodels.stats.weightstats
 - statsmodels.stats.proportion
-- time
+- statistics
 - tqdm
 - warnings
 
