@@ -13,7 +13,12 @@ Mounting evidence suggests that STEM fields (Science, Technology, Engineering, a
 ### Codes
 
 #### stat.ipynb
-- Basic journal statistics, author statistics
+- Basic journal statistics, author participation statistics
 - Author order analysis
 - Career age / productivity analysis (K-S test)
 - Dropout analysis
+
+#### network.ipynb
+- Self-citation analysis / statistics
+- Degree / PageRank centrality statistics (Women author proportion)
+- Centrality vs. productivity visualization
