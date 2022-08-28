@@ -28,3 +28,6 @@ Mounting evidence suggests that STEM fields (Science, Technology, Engineering, a
 - Centrality difference trend
 - Comparison analysis of m-m pairs and m-w pairs
 - Subfield visualization, Wilcoxon tests
+
+#### additional_visualization.ipynb
+- Quadrant / heatmap visualization (Figure 3B, 3C)
