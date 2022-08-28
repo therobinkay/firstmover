@@ -9,6 +9,14 @@ Mounting evidence suggests that STEM fields (Science, Technology, Engineering, a
 ## Folder Structure
 
 ### Data
+- result.csv
+- paperdata.csv
+- primdata.csv
+- lastdata.csv
+- citationBara.csv
+- mfpairs_similarity.csv
+- mwpairs_similarity_edited.csv
+- mmpairs_similarity.csv
 
 ### Codes
 
