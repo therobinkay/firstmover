@@ -22,3 +22,9 @@ Mounting evidence suggests that STEM fields (Science, Technology, Engineering, a
 - Self-citation analysis / statistics
 - Degree / PageRank centrality statistics (Women author proportion)
 - Centrality vs. productivity visualization
+
+#### similarity.ipynb
+- Similarity validation statistics
+- Centrality difference trend
+- Comparison analysis of m-m pairs and m-w pairs
+- Subfield visualization, Wilcoxon tests
