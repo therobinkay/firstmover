@@ -9,8 +9,22 @@ Mounting evidence suggests that STEM fields (Science, Technology, Engineering, a
 ## Folder Structure
 
 ### Data
+- result.csv
+- paperdata.csv
+- primdata.csv
+- lastdata.csv
+- citationBara.csv
+- mfpairs_similarity.csv
+- mwpairs_similarity_edited.csv
+- mmpairs_similarity.csv
 
 ### Codes
+
+#### data_preprocess.ipynb
+...
+
+#### Creating_pairs.ipynb
+...
 
 #### stat.ipynb
 - Basic journal statistics, author participation statistics
@@ -28,3 +42,6 @@ Mounting evidence suggests that STEM fields (Science, Technology, Engineering, a
 - Centrality difference trend
 - Comparison analysis of m-m pairs and m-w pairs
 - Subfield visualization, Wilcoxon tests
+
+#### additional_visualization.ipynb
+- Quadrant / heatmap visualization (Figure 3B, 3C)
