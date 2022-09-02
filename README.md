@@ -22,8 +22,11 @@ Mounting evidence suggests that STEM fields (Science, Technology, Engineering, a
 ### data_preprocess.ipynb
 - Data extraction
 
-### Creating_pairs.ipynb
+### Updated_Similarity_Algorithm.ipynb
 ...
+
+### Creating_pairs.ipynb
+- Creating pairs of m-m, m-w, w-w authors based on their similarity
 
 ### stat.ipynb
 - Basic journal statistics, author participation statistics
