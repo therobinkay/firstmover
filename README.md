@@ -21,9 +21,10 @@ Mounting evidence suggests that STEM fields (Science, Technology, Engineering, a
 
 ### data_preprocess.ipynb
 - Data extraction
+- Name/surname matching **[NOT UPLOADED YET]**
 
 ### Updated_Similarity_Algorithm.ipynb
-...
+- Application of similarity algorithm based on hypergeometric probability function
 
 ### Creating_pairs.ipynb
 - Creating pairs of m-m, m-w, w-w authors based on their similarity
